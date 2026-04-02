@@ -1,2 +1,2 @@
 # OSS-Demos
-Demos featuring different OSS solutions
+Demos featuring real use cases implemented using OSS 
