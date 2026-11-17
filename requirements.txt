@@ -1,0 +1,11 @@
+docling
+deltalake
+pyspark
+pandas
+pyarrow
+unitycatalog-ai
+unitycatalog-client
+opensearch-py
+mlflow
+openai
+python-dotenv
